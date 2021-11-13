@@ -13,7 +13,7 @@ Hi I'm Mayank <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/
 ---
 
 
-### Languages and Tools:
+### Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/vkyprmr/vkyprmr/master/assets/png/python.png" />
