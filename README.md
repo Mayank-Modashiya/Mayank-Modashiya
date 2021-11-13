@@ -9,7 +9,7 @@
 - 🥅 2021 Goals: Build up a dashing portfolio
 - 🎧 Fun fact: I love to listen to music and read books
 
---
+---
 
 
 ### Languages and Tools:
@@ -28,7 +28,7 @@
 <br />
 <br />
 
---
+---
 
 <details>
   <summary>:zap: Github Stats</summary>
