@@ -13,7 +13,7 @@ Hi I'm Mayank <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/
 ---
 
 
-### Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gifcid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+### Languages and Tools: <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gifcid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/Mayank-Modashiya/Mayank-Modashiya/main/assets/png/python.png" />
@@ -23,6 +23,7 @@ Hi I'm Mayank <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/Mayank-Modashiya/Mayank-Modashiya/main/assets/png/git.png" />
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/Mayank-Modashiya/Mayank-Modashiya/main/assets/png/github.png" />
 <img align="left" alt="CSharp" width="32px" src="https://raw.githubusercontent.com/Mayank-Modashiya/Mayank-Modashiya/main/assets/png/csharp.png" />
+<img align="left" alt="AWS" width="32px" src="https://raw.githubusercontent.com/Mayank-Modashiya/Mayank-Modashiya/main/assets/png/aws.png" />
 
 <br />
 <br />
