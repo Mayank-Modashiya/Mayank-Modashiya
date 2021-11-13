@@ -2,7 +2,6 @@
 
 ## I am Industrial Engineer turned in ML/AI Enthusiast
 
-<!--
 **Mayank-Modashiya/Mayank-Modashiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
