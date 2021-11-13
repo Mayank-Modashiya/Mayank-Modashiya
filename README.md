@@ -20,10 +20,8 @@ Hi I'm Mayank <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/
 <img align="left" alt="Tensorflow" width="36px" src="https://raw.githubusercontent.com/Mayank-Modashiya/Mayank-Modashiya/main/assets/png/tensorflow.png" />
 <img align="left" alt="VSCode" width="24px" src="https://raw.githubusercontent.com/Mayank-Modashiya/Mayank-Modashiya/main/assets/png/vscode.png" />
 <img align="left" alt="PyCharm" width="32px" src="https://raw.githubusercontent.com/Mayank-Modashiya/Mayank-Modashiya/main/assets/png/pycharm.png" />
-<img align="left" alt="Jupyter" width="28px" src="https://raw.githubusercontent.com/Mayank-Modashiya/Mayank-Modashiya/master/assets/png/jupyter.png" />
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/Mayank-Modashiya/Mayank-Modashiya/master/assets/png/git.png" />
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/Mayank-Modashiya/Mayank-Modashiya/master/assets/png/github_white.png" />
-<img align="left" alt="PyTorch" width="36px" src="https://raw.githubusercontent.com/Mayank-Modashiya/Mayank-Modashiya/master/assets/png/pytorch.png" />
+<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/Mayank-Modashiya/Mayank-Modashiya/master/assets/png/github.png" />
 <img align="left" alt="CSharp" width="32px" src="https://raw.githubusercontent.com/Mayank-Modashiya/Mayank-Modashiya/master/assets/png/csharp.png" />
 
 <br />
