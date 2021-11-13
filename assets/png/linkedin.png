@@ -111,11 +111,11 @@
     
 
   <link rel="assets" href="https://github.githubassets.com/">
-    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/60849003/ws?session=eyJ2IjoiVjMiLCJ1Ijo2MDg0OTAwMywicyI6NzgzNzEwMTY3LCJjIjo0MTgyNDEwNDE2LCJ0IjoxNjM2ODI2OTIzfQ==--9133e340e7fb61cd12aa9b9fa5311cac520893987a5c54ede13c7480ffb96e67" data-refresh-url="/_alive" data-session-id="f2558daadbc816715f5a985759941de5fa33fad214372bb8094e60613012cc28">
+    <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/60849003/ws?session=eyJ2IjoiVjMiLCJ1Ijo2MDg0OTAwMywicyI6NzgzNzEwMTY3LCJjIjoyNzEzMjAxNzMxLCJ0IjoxNjM2ODI3NDk2fQ==--8450fae313f3dfe3d18f7d16f10d6e663276925b14860418d7dd406d0962dd0a" data-refresh-url="/_alive" data-session-id="f2558daadbc816715f5a985759941de5fa33fad214372bb8094e60613012cc28">
     <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-2e2ab3fc.js">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="C4F5:039F:1BC0367:34C7101:618FFF29" data-pjax-transient="true" /><meta name="html-safe-nonce" content="000edf80a89e10b415a6b4a3b1f767ce39058fdffdc50b6d07c8a127dfc024f1" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkM0RjU6MDM5RjoxQkMwMzY3OjM0QzcxMDE6NjE4RkZGMjkiLCJ2aXNpdG9yX2lkIjoiMzMxNjcwNDQxNTI0NDAwODc4IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="c014e92d2f4c3f4e0daac5030690b6e436fa97e2b6965720b7f2ad2d79e60193" data-pjax-transient="true" />
+  <meta name="request-id" content="C553:7307:1CA9F0C:2FD57D3:61900162" data-pjax-transient="true" /><meta name="html-safe-nonce" content="000edf80a89e10b415a6b4a3b1f767ce39058fdffdc50b6d07c8a127dfc024f1" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6bnVsbCwicmVxdWVzdF9pZCI6IkM1NTM6NzMwNzoxQ0E5RjBDOjJGRDU3RDM6NjE5MDAxNjIiLCJ2aXNpdG9yX2lkIjoiMzMxNjcwNDQxNTI0NDAwODc4IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="30c45eac423026cf950de8f8c05bc04f5bb70fc9b9c3567c3c8a0beba9aa9f8c" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:291844930" data-pjax-transient>
 
@@ -154,7 +154,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="YTMyYTczZDE1ZWY4NGRmNWYyZGI0OGMyMDU2NzMxZjJlOGRmNzdhZTk3ODA2ZWU2YmI4MmU5ZWY1MmRhMDEwZHx7InJlbW90ZV9hZGRyZXNzIjoiNzQuMjA1LjEzNy4xOTYiLCJyZXF1ZXN0X2lkIjoiQzRGNTowMzlGOjFCQzAzNjc6MzRDNzEwMTo2MThGRkYyOSIsInRpbWVzdGFtcCI6MTYzNjgyNjkyMywiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="NTk5ZmQ4NzVhMTg2YTdkMWE4OGE1NTJiMzI2MDcyM2Y5YWNmMGZlNzFmNjI1ZWVmMDVkNGQyOTA2NmM4MGZlM3x7InJlbW90ZV9hZGRyZXNzIjoiNzQuMjA1LjEzNy4xOTYiLCJyZXF1ZXN0X2lkIjoiQzU1Mzo3MzA3OjFDQTlGMEM6MkZENTdEMzo2MTkwMDE2MiIsInRpbWVzdGFtcCI6MTYzNjgyNzQ5NiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
       <meta name="keyboard-shortcuts-preference" content="all">
       <script type="application/json" id="memex_keyboard_shortcuts_preference">"all"</script>
 
@@ -267,7 +267,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="hx7hmNxBam1ApBUx3SM6Ndo1M/NkM0017vYnh1AVCEA1Xf77Qz82RPE72hxQNS/GP6AlCIP/86IWSF7/rzI1eg==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="02O1pLQuPZ1BxnEBnlVxzTjiDK0Xdz/5tQD5VNlaDMZhIKrHK1BhtPBZviwTQ2Q+3XcaVvC7gW5NvoAsJn0x/A==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -483,7 +483,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/60849003?s=40&amp;v=4" width="20" height="20" alt="@Mayank-Modashiya" />
       Mayank-Modashiya
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ddAjIpNYhSkvgaD8sAzmKkQwo/+Bmo2WNIAvQbJbYR0zFn0jHuqX7irqG2V1OoPGajoUD15RBH7w5et42OaLgw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dNe1fkSygKXrt45EzQOW3drdXrN7UuPmaH0ZQ7EzO1QyEet/yQCSYu7cNd0INfMx9NfpQ6SZag6sGN16247Ryg==" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -521,7 +521,7 @@
       <notification-indicator
         class="js-socket-channel"
         data-test-selector="notifications-indicator"
-        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjA4NDkwMDMiLCJ0IjoxNjM2ODI2OTIzfQ==--43d01d81d7c909b0dd99f20eba14acacaf8ded79e43114c15542d43fe03d0c04">
+        data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NjA4NDkwMDMiLCJ0IjoxNjM2ODI3NDk2fQ==--6d6cdcea16e74893399df242d6d4471f6d3f79b0ee817b261af245fdfebcd0ea">
         <a href="/notifications"
           class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
           
@@ -659,11 +659,11 @@
       data-return-to=/vkyprmr/vkyprmr/blob/master/assets/png/linkedin.png
       data-user-id="60849003"
       >
-      <input type="hidden" value="kmkxwbwJKRDZrkVCBrqVsbLYNmn80VNKcvDEbsS6p7l4fRadtf6GHNvEnCWIjSDnYn5SITJYygNciKYer2OF4A==" data-csrf="true" class="js-graphql-csrf" />
+      <input type="hidden" value="wwSXUc5GNGgWraqBtTg6c5UWEC8ophVUUO4ENVJw5KMpELANx7GbZBTHc+Y7D48lRbB0Z+YvjB1+lmZFOanG+g==" data-csrf="true" class="js-graphql-csrf" />
       <iframe class="d-none js-command-palette-commands" sandbox="allow-scripts allow-same-origin" srcdoc="<script crossorigin=&quot;anonymous&quot; defer=&quot;defer&quot; integrity=&quot;sha512-QlLlS61ztNDX0MakiMw8Co2H4lwwWxBjEux0TXwYeRxNqomMtm5SWMesEKum2gowVBnTnVaG9IqV5fCMSTa9Jg==&quot; type=&quot;application/javascript&quot; src=&quot;https://github.githubassets.com/assets/command-runner-4252e54b.js&quot;></script>
 " aria-hidden="true"></iframe>
       <input type="hidden" name="color-mode-path" id="color-mode-path" value="/settings/appearance/color_mode" class="js-color-mode-path" autocomplete="off" />
-      <input type="hidden" value="gCW+JjACRDOAAuP77/utKUJqvfWNvEN31wMZB2MdyplrlGQHfRBx9G3+x7LrYWagUuM0EqWTaRz6hZlHO0LEwg==" data-csrf="true" class="js-color-mode-csrf" />
+      <input type="hidden" value="djhYCNeRVw5xA8s0W4O9v9GunoTiBUvAaYlmR2J+DVidiYIpmoNiyZz/731fGXY2wScXY8oqYatED+YHOiEDAw==" data-csrf="true" class="js-color-mode-csrf" />
 
         <command-palette-mode
           data-char="#"
@@ -1385,7 +1385,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="If6XZnBGy6sqCcLRhycm7DddfshiWhvngFue6eBBVujynx1l0Ll9gJ9J+Gw/ZzH8+LX4tODynE9WY8mi6R0O/A==" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="gn2pM8hn5ZFrXqQ45Un0rc3ejZfSmcEPaKxWHgpZch5RHCMwaJhTut4enoVdCeO9AjYL61AxRqe+lAFVAwUqCg==" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="291844930">
 
@@ -1508,7 +1508,7 @@
 
         <details-dialog class="notifications-component-dialog " data-target="notifications-list-subscription-form.customDialog" hidden>
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="L9q5BTw4tNKI4QLIieLBiXBcIedGAmAyB0v4It0ZYHv8uzMGnMcC+T2hOHUxotaZv7Snm8Sq55rRc69p1EU4bw==" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="j1fQsEU0kopICunhjVy9mE/xu51sK5REiChkz3L8ZrZcNlqz5cskof1K01w1HKqIgBk94e6DE+xeEDOEe6A+og==" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="291844930">
 
@@ -1666,7 +1666,7 @@
 
     <li>
           <div class="js-toggler-container js-social-container starring-container d-block">
-    <form class="starred js-social-form" action="/vkyprmr/vkyprmr/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7j1sPyMAuc54eGQzHTetJY4jdvby4nFVIC2gWm89BZ9CvDr8L/RW1yRNLpryGg4Rq6w/YSTfX7QcHPaHz40rEg==" autocomplete="off" />
+    <form class="starred js-social-form" action="/vkyprmr/vkyprmr/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="vsgjZSmBmBhMkTo/Q0+PQip/9s6xgvPpeQ9HNhR0BasSSXWmJXV3ARCkcJasYix2D/C/WWe/3QhFPhHrtMQrJg==" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
       <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:291844930,&quot;originating_url&quot;:&quot;https://github.com/vkyprmr/vkyprmr/blob/master/assets/png/linkedin.png&quot;,&quot;user_id&quot;:60849003}}" data-hydro-click-hmac="cdb1ee0036d48e1606b67524f58321fd96ff2fe12d461a02e7dc4a86814ea43a" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="js-toggler-target btn-with-count btn-sm btn">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill mr-1">
@@ -1688,7 +1688,7 @@
            0
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/vkyprmr/vkyprmr/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="vHk+37EWDFuHjdlk+SP4ELuXmFs5lxU5anjYADX7Z5/Q4Wca+XtAckX8kBPW+59aHrlOszbhdMNe3XSlfaHa/w==" autocomplete="off" />
+    <form class="unstarred js-social-form" action="/vkyprmr/vkyprmr/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="fpJPHEFXi0c9t0R2cxiXZwprZEJMbiJ239G9lysTTC4SChbZCTrHbv/GDQFcwPAtr0WyqkMYQ4zrdBEyY0nxTg==" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
       <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:291844930,&quot;originating_url&quot;:&quot;https://github.com/vkyprmr/vkyprmr/blob/master/assets/png/linkedin.png&quot;,&quot;user_id&quot;:60849003}}" data-hydro-click-hmac="de0f2e6382eb3c182c56854bc6a66758cda1ff3466fd743fd1a1918c817d2059" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target btn-with-count btn-sm btn">
   <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star mr-1">
@@ -2171,17 +2171,83 @@
 
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-      <include-fragment src="/vkyprmr/vkyprmr/contributors/master/assets/png/linkedin.png" class="commit-loader">
-        <div class="Box-header d-flex flex-items-center">
-          <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
-          <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
-        </div>
+      
+  <div class="Box-header Details js-details-container">
+      <div class="d-flex flex-items-center">
+        <span class="flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1">
+          <a rel="author" data-skip-pjax="true" data-hovercard-type="user" data-hovercard-url="/users/vkyprmr/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/vkyprmr"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/65457337?s=48&amp;v=4" width="24" height="24" alt="@vkyprmr" /></a>
+        </span>
+        <div class="flex-1 d-flex flex-items-center ml-3 min-width-0">
+          <div class="css-truncate css-truncate-overflow">
+            <a class="text-bold Link--primary" rel="author" data-hovercard-type="user" data-hovercard-url="/users/vkyprmr/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/vkyprmr">vkyprmr</a>
 
-        <div class="Box-body d-flex flex-items-center" >
-          <div class="Skeleton Skeleton--text col-1">&nbsp;</div>
-          <span class="color-fg-danger h6 loader-error">Cannot retrieve contributors at this time</span>
+              <span class="markdown-title">
+                <a data-pjax="true" title="svgs added" class="Link--secondary" href="/vkyprmr/vkyprmr/commit/1bfef36a17605f3e11ed0dc8b1e316bf3dca2a7f">svgs added</a>
+              </span>
+          </div>
+
+
+          <span class="ml-2">
+            <include-fragment accept="text/fragment+html" src="/vkyprmr/vkyprmr/commit/1bfef36a17605f3e11ed0dc8b1e316bf3dca2a7f/rollup?direction=e" class="d-inline"></include-fragment>
+          </span>
         </div>
-</include-fragment>    </div>
+        <div class="ml-3 d-flex flex-shrink-0 flex-items-center flex-justify-end color-fg-muted no-wrap">
+          <span class="d-none d-md-inline">
+            <span>Latest commit</span>
+            <a class="text-small text-mono Link--secondary" href="/vkyprmr/vkyprmr/commit/1bfef36a17605f3e11ed0dc8b1e316bf3dca2a7f" data-pjax>1bfef36</a>
+            <span itemprop="dateModified"><relative-time datetime="2020-09-01T00:25:16Z" class="no-wrap">Aug 31, 2020</relative-time></span>
+          </span>
+
+          <a data-pjax href="/vkyprmr/vkyprmr/commits/master/assets/png/linkedin.png" class="ml-3 no-wrap Link--primary no-underline">
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-history">
+    <path fill-rule="evenodd" d="M1.643 3.143L.427 1.927A.25.25 0 000 2.104V5.75c0 .138.112.25.25.25h3.646a.25.25 0 00.177-.427L2.715 4.215a6.5 6.5 0 11-1.18 4.458.75.75 0 10-1.493.154 8.001 8.001 0 101.6-5.684zM7.75 4a.75.75 0 01.75.75v2.992l2.028.812a.75.75 0 01-.557 1.392l-2.5-1A.75.75 0 017 8.25v-3.5A.75.75 0 017.75 4z"></path>
+</svg>
+            <span class="d-none d-sm-inline">
+              <strong>History</strong>
+            </span>
+          </a>
+        </div>
+      </div>
+
+  </div>
+
+  <div class="Box-body d-flex flex-items-center flex-auto border-bottom-0 flex-wrap" >
+    <details class="details-reset details-overlay details-overlay-dark lh-default color-fg-default float-left mr-3" id="blob_contributors_box">
+      <summary class="Link--primary">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-people">
+    <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"></path>
+</svg>
+        <strong>1</strong>
+        
+        contributor
+      </summary>
+      <details-dialog
+        class="Box Box--overlay d-flex flex-column anim-fade-in fast"
+        aria-label="Users who have contributed to this file"
+        src="/vkyprmr/vkyprmr/contributors-list/master/assets/png/linkedin.png" preload>
+        <div class="Box-header">
+          <button class="Box-btn-octicon btn-octicon float-right" type="button" aria-label="Close dialog" data-close-dialog>
+            <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
+    <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
+</svg>
+          </button>
+          <h3 class="Box-title">
+            Users who have contributed to this file
+          </h3>
+        </div>
+        <include-fragment>
+          <span role="status">
+  <span class="sr-only">Loading</span>
+  <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" data-view-component="true" class="my-3 mx-auto d-block anim-rotate">
+    <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
+    <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
+</svg></span>
+
+        </include-fragment>
+      </details-dialog>
+    </details>
+  </div>
+    </div>
 
 
 
@@ -2231,7 +2297,7 @@
 </svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/vkyprmr/vkyprmr/delete/master/assets/png/linkedin.png" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Nfvwhk/bVxwv1B7nXTlEP0M+rceFi1OSIdQOHUAI77Fh0nwsl0sZc90GB9sGk2nrM/WpG+945aYHu+699RAaiw==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/vkyprmr/vkyprmr/delete/master/assets/png/linkedin.png" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hASSkQUbVyxmj0xnTMtU4wsZUQON+Sd5fbSVwBhjZUjQLR473YsZQ5RdVVsXYXk3e9JV3+cKkU1b23VgrXuQcg==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete the file in your fork of this project" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
