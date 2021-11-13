@@ -33,6 +33,6 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="vkyprmr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mayank-Modashiya&show_icons=true&hide_border=true&theme=dark" />
-  <img align="left" alt="vkyprmr's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Modashiya&show_icons=true&hide_border=true&theme=dark" />
+  <img align="left" alt="Mayank's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mayank-Modashiya&show_icons=true&hide_border=true&theme=dark" />
+  <img align="left" alt="Mayank's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Modashiya&show_icons=true&hide_border=true&theme=dark" />
 
