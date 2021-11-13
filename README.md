@@ -24,6 +24,8 @@ Hi I'm Mayank <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/Mayank-Modashiya/Mayank-Modashiya/main/assets/png/github.png" />
 <img align="left" alt="CSharp" width="32px" src="https://raw.githubusercontent.com/Mayank-Modashiya/Mayank-Modashiya/main/assets/png/csharp.png" />
 <img align="left" alt="AWS" width="32px" src="https://raw.githubusercontent.com/Mayank-Modashiya/Mayank-Modashiya/main/assets/png/aws.png" />
+<img align="left" alt="Anaconda" width="32px" src="https://raw.githubusercontent.com/Mayank-Modashiya/Mayank-Modashiya/main/assets/png/anaconda.png" />
+
 
 <br />
 <br />
