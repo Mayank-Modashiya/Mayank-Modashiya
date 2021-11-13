@@ -2,9 +2,6 @@
 
 ## I am Industrial Engineer turned in ML/AI Enthusiast
 
-**Mayank-Modashiya/Mayank-Modashiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 💻 I’m currently working on implementing AI/ML in Supply Chain industry
 - 📚 My current focus is on solving complex Supply Chain problems
