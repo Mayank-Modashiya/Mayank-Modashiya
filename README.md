@@ -7,7 +7,7 @@ Hi, I'm Mayank <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob
 - 💻 I’m currently working on implementing AI/ML in Supply Chain industry
 - 📚 My current focus is on solving complex Supply Chain problems
 - 🤝 I’m looking to collaborate with other developers
-- 🥅 2021 Goals: Build up a dashing portfolio
+- 🥅 2023 Goals: Build up a dashing portfolio
 - 🎧 Fun fact: I love to listen to music and read books
 
 ---
